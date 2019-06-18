@@ -11,6 +11,8 @@
 ## Features
 Open new column for editing stringified JSON in JSON, and update JSON on save.
 
+![how_to_use](./assets/how_to_use.gif)
+
 ## How to Use
 ### 1. Move caret on target string.
 ![caret_on_target](./assets/caret_on_target.png)
@@ -31,3 +33,7 @@ Open new column for editing stringified JSON in JSON, and update JSON on save.
 ### 0.0.1
 
 released.
+
+### 0.0.2
+
+fix README.

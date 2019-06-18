@@ -2,7 +2,7 @@
     "name": "stringified-json-editor",
     "displayName": "Stringified JSON Editor",
     "description": "Visual Studio Code extension for editing stringified JSON in JSON.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "toiroakr",
     "author": {
         "name": "toiroakr"
