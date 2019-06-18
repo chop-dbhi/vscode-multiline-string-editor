@@ -22,6 +22,7 @@ Open new column for editing stringified JSON in JSON, and update JSON on save.
 |  before  |  after  |
 | :----: | :----: |
 |  ![edit_stringified_before](./assets/edit_stringified_before.png)  | ![edit_stringified_after](./assets/edit_stringified_after.png)  |
+
 ### 4. Save JSON in opened `stringified.json`, then update original JSON.
 ![save_stringified](./assets/save_stringified.png)
 
