@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/icon.png" width="160">
+  <div style="width: 160px">
+
+  ![icon](./assets/icon.png)
+  </div>
 
   # Stringified JSON Editor
 </div>
