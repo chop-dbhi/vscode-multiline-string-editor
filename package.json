@@ -7,13 +7,14 @@
     "author": {
         "name": "toiroakr"
     },
+    "license": "MIT",
     "icon": "assets/icon.png",
     "engines": {
         "vscode": "^1.34.0"
     },
-    "categories": [
-        "Other"
-    ],
+    "categories": ["Other"],
+    "keywords": ["JSON"],
+    "markdown": "github",
     "activationEvents": [
         "onCommand:extension.editStringified"
     ],
