@@ -4,7 +4,7 @@ import * as vscode from 'vscode';
 import {MemFS} from './fileSystemProvider';
 
 const MEM_FS_SCHEMA = 'memfs_sje';
-const MEM_FS_FILE = `${MEM_FS_SCHEMA}:/stringified.txt`;
+const MEM_FS_FILE = `${MEM_FS_SCHEMA}:/multiline.txt`;
 
 interface EditTarget {
   range: vscode.Range;
@@ -108,9 +108,7 @@ export function activate(context: vscode.ExtensionContext) {
       }
 
       if (MEM_FS_FILE === editor.document.uri.toString()) {
-        vscode.window.showErrorMessage(
-          'Cannot edit text in editing stringified JSON.'
-        );
+        vscode.window.showErrorMessage('Cannot edit text in multiline file.');
         return;
       }
 
