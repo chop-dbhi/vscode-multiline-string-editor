@@ -10,7 +10,7 @@ Open new column for editing stringified JSON in JSON, and update JSON on save.
 
 ## How to Use
 
-![caret_on_target](./assets/how_to_use.png)
+![how_to_use](./assets/how_to_use.gif)
 
 1. Move caret to the target string.
 
