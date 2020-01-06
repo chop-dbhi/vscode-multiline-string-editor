@@ -12,13 +12,13 @@ Open new column for editing stringified JSON in JSON, and update JSON on save.
 
 ![caret_on_target](./assets/how_to_use.png)
 
-### 1. Move caret on target string.
+1. Move caret to the target string.
 
 ![caret_on_target](./assets/caret_on_target.png)
 
-### 2. Open command palette and select `Edit as multiline string`.
+2. Open command palette and select `Edit as multiline string`.
 
-### 3. Edit opened `stringified.txt`.
+3. Edit opened `stringified.txt`.
 
 ## Developing
 
