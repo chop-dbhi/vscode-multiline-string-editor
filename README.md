@@ -6,8 +6,6 @@ Easily edit multiline strings that need to be encoded as single-line strings (fo
 
 Open new column for editing stringified JSON in JSON, and update JSON on save.
 
-![how_to_use](./assets/how_to_use.gif)
-
 ## How to Use
 
 ![how_to_use](./assets/how_to_use.gif)
