@@ -12,7 +12,7 @@ Easily edit multiline strings that need to be encoded as single-line strings (fo
 
 2. Open command palette and select `Edit as multiline string`.
 
-3. Edit opened `stringified.txt`.
+3. Edit opened `multiline.txt`.
 
 ## Developing
 
