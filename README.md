@@ -28,3 +28,12 @@ code .
 2. Run `npm run compile`.
 3. Press `F5` to launch a development window.
 4. You can refresh the development window (from within the development window) with `Cmd + Shift + P` -> `Developer: Reload Window`.
+
+## Packaging
+
+1. [Install `vsce`](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#vsce).
+2. Run `vsce package`.
+
+See the [packaging documentation](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#packaging-extensions) for more information.
+
+You can then manually upload the packaged file to the VSCode Marketplace from https://marketplace.visualstudio.com/manage/publishers/<your-publisher>.
