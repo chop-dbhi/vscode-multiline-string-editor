@@ -1,0 +1,4 @@
+(c) The Children's Hospital of Philadelphia, 2020
+(c) toiroakr, 2019
+
+This extension is based on "stringified-json-editor" by toiroakr (https://github.com/toiroakr/stringified-json-editor), which was released under the MIT License.
