@@ -36,4 +36,4 @@ code .
 
 See the [packaging documentation](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#packaging-extensions) for more information.
 
-You can then manually upload the packaged file to the VSCode Marketplace from https://marketplace.visualstudio.com/manage/publishers/<your-publisher>.
+You can then manually upload the packaged (`.vsix`) file to the VSCode Marketplace from https://marketplace.visualstudio.com/manage/publishers/<your-publisher>.
